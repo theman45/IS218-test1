@@ -12,7 +12,7 @@ Your team enforces professional workflow:
 - Pass **linting**  
 - All **tests** must pass  
 - **100% test coverage** required  
-
+  
 ---
 
 ## Required Repo Layout
