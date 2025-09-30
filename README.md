@@ -1,5 +1,5 @@
 # TinyTools Calculator – In-Class Test (30 min)
-
+ 
 ## Scenario
 You’ve joined **TinyTools, Inc.** Deliver a production-ready **Python Calculator** library with four operations:
 
